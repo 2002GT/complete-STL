@@ -98,7 +98,7 @@ cout<<"array at back ->"<<a.back()<<endl;
        cout<<i<<endl;
           
       
-//                          GFG 
+//                          
 
 //              function---------------
 
@@ -292,6 +292,7 @@ set<int>::iterator itr = s.find(5);
 for(auto it=itr;it!=s.end();it++) {
   cout<<*it<<" ";
 }cout<<endl;
+
  
 }
 
